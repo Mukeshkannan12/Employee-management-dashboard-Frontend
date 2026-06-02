@@ -1,3 +1,33 @@
+# Employee Management Dashboard
+
+## Tech Stack
+- React
+- Node.js
+- Express.js
+- MongoDB Atlas
+- JWT Authentication
+
+## Features
+- Login Authentication
+- Employee CRUD
+- Search and Filter
+- Dashboard Analytics
+- Responsive UI
+
+## Installation
+
+### Backend
+cd server
+npm install
+npm run dev
+
+### Frontend
+cd client
+npm install
+npm start
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
