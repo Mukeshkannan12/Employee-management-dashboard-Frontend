@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "name": "Nancy Harris",
+    "email": "nancy.harris@example.com",
+    "department": "Finance",
+    "designation": "Payroll Specialist",
+    "status": "Active",
+    "joiningDate": "2023-05-02"
+  },
+  {
+    "id": 2,
+    "name": "Brian Hill",
+    "email": "brian.hill@example.com",
+    "department": "IT",
+    "designation": "Senior Software Engineer",
+    "status": "Active",
+    "joiningDate": "2020-06-25"
+  },
+  {
+    "id": 3,
+    "name": "Margaret Allen",
+    "email": "margaret.allen@example.com",
+    "department": "IT",
+    "designation": "Senior Software Engineer",
+    "status": "Inactive",
+    "joiningDate": "2022-04-15"
+  },
+  {
+    "id": 4,
+    "name": "Daniel Nelson",
+    "email": "daniel.nelson@example.com",
+    "department": "HR",
+    "designation": "Recruiter",
+    "status": "Active",
+    "joiningDate": "2023-02-12"
+  },
+  {
+    "id": 5,
+    "name": "Michael Anderson",
+    "email": "michael.anderson@example.com",
+    "department": "IT",
+    "designation": "DevOps Engineer",
+    "status": "Inactive",
+    "joiningDate": "2020-12-07"
+  },
+  {
+    "id": 6,
+    "name": "Deborah Scott",
+    "email": "deborah.scott@example.com",
+    "department": "IT",
+    "designation": "DevOps Engineer",
+    "status": "Active",
+    "joiningDate": "2020-08-01"
+  },
+  {
+    "id": 7,
+    "name": "Brian Hill",
+    "email": "brian.hill@example.com",
+    "department": "IT",
+    "designation": "System Administrator",
+    "status": "Active",
+    "joiningDate": "2023-06-24"
+  },
+  {
+    "id": 8,
+    "name": "Betty Green",
+    "email": "betty.green@example.com",
+    "department": "Marketing",
+    "designation": "Content Creator",
+    "status": "Inactive",
+    "joiningDate": "2020-05-06"
+  },
+  {
+    "id": 9,
+    "name": "Karen Campbell",
+    "email": "karen.campbell@example.com",
+    "department": "Finance",
+    "designation": "Auditor",
+    "status": "Active",
+    "joiningDate": "2020-12-29"
+  },
+  {
+    "id": 10,
+    "name": "Sandra Sanchez",
+    "email": "sandra.sanchez@example.com",
+    "department": "IT",
+    "designation": "Senior Software Engineer",
+    "status": "Active",
+    "joiningDate": "2021-05-17"
+  },
+  {
+    "id": 11,
+    "name": "Melissa Miller",
+    "email": "melissa.miller@example.com",
+    "department": "Marketing",
+    "designation": "Marketing Manager",
+    "status": "Active",
+    "joiningDate": "2022-03-12"
+  },
+  {
+    "id": 12,
+    "name": "Joshua Jackson",
+    "email": "joshua.jackson@example.com",
+    "department": "HR",
+    "designation": "Talent Acquisition Specialist",
+    "status": "Active",
+    "joiningDate": "2020-10-09"
+  },
+  {
+    "id": 13,
+    "name": "George Moore",
+    "email": "george.moore@example.com",
+    "department": "Marketing",
+    "designation": "Marketing Manager",
+    "status": "Active",
+    "joiningDate": "2023-01-28"
+  },
+  {
+    "id": 14,
+    "name": "Christopher White",
+    "email": "christopher.white@example.com",
+    "department": "Finance",
+    "designation": "Financial Analyst",
+    "status": "Active",
+    "joiningDate": "2023-08-21"
+  },
+  {
+    "id": 15,
+    "name": "Paul Jones",
+    "email": "paul.jones@example.com",
+    "department": "Marketing",
+    "designation": "Marketing Manager",
+    "status": "Inactive",
+    "joiningDate": "2023-11-30"
+  },
+  {
+    "id": 16,
+    "name": "Richard Jackson",
+    "email": "richard.jackson@example.com",
+    "department": "Finance",
+    "designation": "Payroll Specialist",
+    "status": "Active",
+    "joiningDate": "2020-06-19"
+  },
+  {
+    "id": 17,
+    "name": "Matthew Garcia",
+    "email": "matthew.garcia@example.com",
+    "department": "Finance",
+    "designation": "Payroll Specialist",
+    "status": "Active",
+    "joiningDate": "2024-01-16"
+  },
+  {
+    "id": 18,
+    "name": "Barbara Mitchell",
+    "email": "barbara.mitchell@example.com",
+    "department": "HR",
+    "designation": "HR Manager",
+    "status": "Active",
+    "joiningDate": "2023-07-15"
+  },
+  {
+    "id": 19,
+    "name": "Amanda Ramirez",
+    "email": "amanda.ramirez@example.com",
+    "department": "HR",
+    "designation": "Talent Acquisition Specialist",
+    "status": "Active",
+    "joiningDate": "2020-04-18"
+  },
+  {
+    "id": 20,
+    "name": "Elizabeth Adams",
+    "email": "elizabeth.adams@example.com",
+    "department": "Finance",
+    "designation": "Payroll Specialist",
+    "status": "Inactive",
+    "joiningDate": "2021-09-16"
+  },
+  {
+    "id": 21,
+    "name": "Donald Flores",
+    "email": "donald.flores@example.com",
+    "department": "HR",
+    "designation": "Recruiter",
+    "status": "Active",
+    "joiningDate": "2023-11-25"
+  },
+  {
+    "id": 22,
+    "name": "Edward King",
+    "email": "edward.king@example.com",
+    "department": "IT",
+    "designation": "Software Engineer",
+    "status": "Inactive",
+    "joiningDate": "2020-03-24"
+  },
+  {
+    "id": 23,
+    "name": "Mark Adams",
+    "email": "mark.adams@example.com",
+    "department": "IT",
+    "designation": "Software Engineer",
+    "status": "Active",
+    "joiningDate": "2024-04-07"
+  },
+  {
+    "id": 24,
+    "name": "Donna Smith",
+    "email": "donna.smith@example.com",
+    "department": "Finance",
+    "designation": "Auditor",
+    "status": "Inactive",
+    "joiningDate": "2021-11-26"
+  },
+  {
+    "id": 25,
+    "name": "William Jackson",
+    "email": "william.jackson@example.com",
+    "department": "IT",
+    "designation": "IT Support Specialist",
+    "status": "Active",
+    "joiningDate": "2022-07-07"
+  },
+  {
+    "id": 26,
+    "name": "Jennifer Johnson",
+    "email": "jennifer.johnson@example.com",
+    "department": "HR",
+    "designation": "Talent Acquisition Specialist",
+    "status": "Inactive",
+    "joiningDate": "2022-09-05"
+  },
+  {
+    "id": 27,
+    "name": "Lisa Miller",
+    "email": "lisa.miller@example.com",
+    "department": "HR",
+    "designation": "HR Manager",
+    "status": "Active",
+    "joiningDate": "2023-06-28"
+  },
+  {
+    "id": 28,
+    "name": "Donna Rivera",
+    "email": "donna.rivera@example.com",
+    "department": "IT",
+    "designation": "System Administrator",
+    "status": "Inactive",
+    "joiningDate": "2020-06-21"
+  },
+  {
+    "id": 29,
+    "name": "Carol Taylor",
+    "email": "carol.taylor@example.com",
+    "department": "Finance",
+    "designation": "Auditor",
+    "status": "Inactive",
+    "joiningDate": "2020-07-31"
+  },
+  {
+    "id": 30,
+    "name": "Ashley Nguyen",
+    "email": "ashley.nguyen@example.com",
+    "department": "Finance",
+    "designation": "Accountant",
+    "status": "Inactive",
+    "joiningDate": "2021-01-14"
+  },
+  {
+    "id": 31,
+    "name": "Betty Robinson",
+    "email": "betty.robinson@example.com",
+    "department": "Marketing",
+    "designation": "Marketing Manager",
+    "status": "Inactive",
+    "joiningDate": "2020-10-24"
+  },
+  {
+    "id": 32,
+    "name": "Anthony Perez",
+    "email": "anthony.perez@example.com",
+    "department": "IT",
+    "designation": "Software Engineer",
+    "status": "Active",
+    "joiningDate": "2022-08-11"
+  },
+  {
+    "id": 33,
+    "name": "Melissa Walker",
+    "email": "melissa.walker@example.com",
+    "department": "Finance",
+    "designation": "Payroll Specialist",
+    "status": "Active",
+    "joiningDate": "2024-03-08"
+  },
+  {
+    "id": 34,
+    "name": "Patricia Jones",
+    "email": "patricia.jones@example.com",
+    "department": "Marketing",
+    "designation": "Social Media Manager",
+    "status": "Active",
+    "joiningDate": "2021-02-05"
+  },
+  {
+    "id": 35,
+    "name": "Emily Carter",
+    "email": "emily.carter@example.com",
+    "department": "HR",
+    "designation": "HR Manager",
+    "status": "Active",
+    "joiningDate": "2021-10-26"
+  },
+  {
+    "id": 36,
+    "name": "Steven Garcia",
+    "email": "steven.garcia@example.com",
+    "department": "Finance",
+    "designation": "Payroll Specialist",
+    "status": "Active",
+    "joiningDate": "2024-01-05"
+  },
+  {
+    "id": 37,
+    "name": "Melissa Young",
+    "email": "melissa.young@example.com",
+    "department": "IT",
+    "designation": "IT Support Specialist",
+    "status": "Inactive",
+    "joiningDate": "2021-12-17"
+  },
+  {
+    "id": 38,
+    "name": "Jessica Flores",
+    "email": "jessica.flores@example.com",
+    "department": "Sales",
+    "designation": "Sales Representative",
+    "status": "Inactive",
+    "joiningDate": "2021-12-14"
+  },
+  {
+    "id": 39,
+    "name": "Elizabeth Martin",
+    "email": "elizabeth.martin@example.com",
+    "department": "Finance",
+    "designation": "Payroll Specialist",
+    "status": "Inactive",
+    "joiningDate": "2022-08-09"
+  },
+  {
+    "id": 40,
+    "name": "Nancy Green",
+    "email": "nancy.green@example.com",
+    "department": "HR",
+    "designation": "HR Manager",
+    "status": "Active",
+    "joiningDate": "2021-10-29"
+  },
+  {
+    "id": 41,
+    "name": "Joseph Rodriguez",
+    "email": "joseph.rodriguez@example.com",
+    "department": "Marketing",
+    "designation": "SEO Specialist",
+    "status": "Active",
+    "joiningDate": "2021-02-20"
+  },
+  {
+    "id": 42,
+    "name": "Patricia Green",
+    "email": "patricia.green@example.com",
+    "department": "Marketing",
+    "designation": "SEO Specialist",
+    "status": "Active",
+    "joiningDate": "2022-08-17"
+  },
+  {
+    "id": 43,
+    "name": "Ashley Nguyen",
+    "email": "ashley.nguyen@example.com",
+    "department": "IT",
+    "designation": "Senior Software Engineer",
+    "status": "Active",
+    "joiningDate": "2020-11-19"
+  },
+  {
+    "id": 44,
+    "name": "Steven Gonzalez",
+    "email": "steven.gonzalez@example.com",
+    "department": "Finance",
+    "designation": "Auditor",
+    "status": "Active",
+    "joiningDate": "2023-05-20"
+  },
+  {
+    "id": 45,
+    "name": "Sandra Williams",
+    "email": "sandra.williams@example.com",
+    "department": "IT",
+    "designation": "System Administrator",
+    "status": "Inactive",
+    "joiningDate": "2020-04-16"
+  },
+  {
+    "id": 46,
+    "name": "Barbara Wilson",
+    "email": "barbara.wilson@example.com",
+    "department": "Marketing",
+    "designation": "Marketing Manager",
+    "status": "Active",
+    "joiningDate": "2021-02-24"
+  },
+  {
+    "id": 47,
+    "name": "Paul Harris",
+    "email": "paul.harris@example.com",
+    "department": "Sales",
+    "designation": "Sales Executive",
+    "status": "Inactive",
+    "joiningDate": "2022-04-16"
+  },
+  {
+    "id": 48,
+    "name": "Kimberly Hill",
+    "email": "kimberly.hill@example.com",
+    "department": "IT",
+    "designation": "Software Engineer",
+    "status": "Inactive",
+    "joiningDate": "2020-07-08"
+  },
+  {
+    "id": 49,
+    "name": "Daniel Nguyen",
+    "email": "daniel.nguyen@example.com",
+    "department": "Marketing",
+    "designation": "Marketing Manager",
+    "status": "Active",
+    "joiningDate": "2024-03-22"
+  },
+  {
+    "id": 50,
+    "name": "Michael Garcia",
+    "email": "michael.garcia@example.com",
+    "department": "HR",
+    "designation": "HR Coordinator",
+    "status": "Active",
+    "joiningDate": "2022-02-28"
+  }
+]
